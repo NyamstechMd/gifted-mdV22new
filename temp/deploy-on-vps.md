@@ -25,7 +25,7 @@
   
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/SuhailTechInfo/Suhail-Md
+      git clone https://github.com/Giftedmaurice/gifted-mdV2
       cd Suhail-Md
       yarn install --network-concurrency 1
       ```
