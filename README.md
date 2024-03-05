@@ -1,4 +1,4 @@
-[![Gifted MD V.2.0.0](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=1FC40A&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+Gifted-MD+V.2.0.0;I+am+Programmed+by+Gifted+Tech;Gifted+Tech+is+a+Self+Learned+Fronted+Developer;He+is+from+East+Africa-Kenya)](https://github.com/Giftedmaurice/gifted-mdV2)
+[![Gifted MD V.2.0.0](https://readme-typing-svg.demolab.com?font=Anton&size=35&pause=998&color=1FC40A&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+Gifted-MD+V.2.0.0;I+am+Programmed+by+Gifted+Tech;Gifted+Tech+is+a+Self+Learned+Fronted+Developer;He+is+from+East+Africa-Kenya)](https://github.com/Giftedmaurice/gifted-mdV2)
 
  <h1 align="center"> ɢɪғᴛᴇᴅ ᴍᴅ Version 2.0.0 </h1> 
  <br>
@@ -83,7 +83,7 @@
 ## Gifted-Md V.2.0.0 Deployment Methods
 ---
 1.  ***Click [`FORK`](https://github.com/Giftedmaurice/gifted-mdV2/fork) and `Star ⭐ Repository` for Courage.***
-2.  ***Get `SESSION ID` by [`SCANING QR`](https://qr-scan.giftedtechnexus.co.ke) Or [`PARING CODE`](https://replit.com/@mauricegift045/GiftedMD-Pairing-Code#index.js). And then `Go-to Whatapp>Three dots>Linked Devices`***
+2.  ***Get `SESSION ID`  [`BY CLICKING HERE`](https://session.giftedtechnexus.co.ke) And then `Go-to Whatapp>Three dots>Linked Devices`***
 3. ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FGiftedmaurice%2Fgifted-mdV2)***
 4.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
 5.  ***Deploy on [`Replit`](https://replit.com/github/Giftedmaurice/gifted-mdV2)***
