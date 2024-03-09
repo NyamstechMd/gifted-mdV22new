@@ -59,8 +59,8 @@
 
  
 <h2 align="center">  NOTICE </h2>
----
-- *Gifted-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use Gifted-Md at your own risk by keeping this warning in mind.*
+
+- Gifted-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`
+- In that case, I'm not responsible for banning your account.
+- Use Gifted-Md at your own risk by keeping this warning in mind.
  
