@@ -11,8 +11,8 @@
  
 
 FROM quay.io/sampandey001/secktor
-RUN git clone https://github.com/SuhailTechInfoMd/Suhail-Md /root/Suhail
-WORKDIR /root/Suhail
+RUN git clone https://github.com/Giftedmaurice/gifted-mdV2 /root/Gifted
+WORKDIR /root/Gifted
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
