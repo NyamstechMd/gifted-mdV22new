@@ -115,3 +115,6 @@
 - *Use Gifted-Bot-Md at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Giftedmaurice/gifted-mdV2)
 
+### Credits To:
+- [SuhailTechInfo](https://github.com/SuhailTechInfo) 
+
