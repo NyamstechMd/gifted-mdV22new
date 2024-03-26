@@ -4,11 +4,11 @@
   "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
   "keywords": ["whatsappbot", "giftedMd", "Gifted Md bot", "Gifted-Md", "GiftedMdWhatsaooBot", "GiftedWaBot","GiftedMD","Gifted Md Whatsapp Bot","multi device"],
   "success_url": "/",
-  "app_url": "/suhail/",
+  "app_url": "/",
   
   "env": {
     "OWNER_NAME": {
-      "description": "Name of Bot Owner",    
+      "description": "Bot Owner Name",    
       "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
       "required" :true
     },   
@@ -25,12 +25,12 @@
       "required" :true
     },
     "BOT_NAME": {
-      "description": " NAME FOR BOT",
+      "description": " Name Of Bot",
       "required" :true,    
       "value": "𝗚𝗜𝗙𝗧𝗘𝗗 𝗠𝗗"
     }, 
-    "IMAGE": {
-      "description": "Image for bot",
+    "USER_IMAGES": {
+      "description": "Image for Bot. You can Place several Sparated by Commas.",
       "required" :true,    
       "value": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
     }, 
@@ -138,6 +138,11 @@
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
       "value": "Whatsappbot",
+      "required": true 
+    }
+    "STACK": {
+      "description": "Stack Name",
+      "value": "container | heroku-22 | 4246315815290786|01|2026|717",
       "required": true 
     }
   }, 
