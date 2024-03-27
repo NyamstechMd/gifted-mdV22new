@@ -80,7 +80,7 @@
       "value": "true"
     },
     "LEVEL_UP_MESSAGE": {
-      "description": "Fill the value true if you want bot to automatically view your Statuses.",
+      "description": "Fill the value true if you want bot to show Level Up Messages.",
       "required" :true,
       "value": "false"
     },
