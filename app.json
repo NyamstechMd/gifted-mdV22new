@@ -4,7 +4,7 @@
   "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
   "keywords": ["whatsappbot", "giftedMd", "Gifted Md bot", "Gifted-Md", "GiftedMdWhatsaooBot", "GiftedWaBot","GiftedMD","Gifted Md Whatsapp Bot","multi device"],
   "success_url": "/",
-  "app_url": "/",
+  "app_url": "/qr",
   
   "env": {
     "OWNER_NAME": {
@@ -78,7 +78,12 @@
       "description": "Fill the value true if you want bot to automatically view your Statuses.",
       "required" :true,
       "value": "true"
-    }, 
+    },
+    "LEVEL_UP_MESSAGE": {
+      "description": "Fill the value true if you want bot to automatically view your Statuses.",
+      "required" :true,
+      "value": "false"
+    },
     "MSGS_IN_LOG": {
       "description": "Fill the value true if you want to see Messages in Console.",
       "required" :true,
@@ -139,12 +144,12 @@
       "description": "Put Sticker Author_Name.",
       "value": "Whatsappbot",
       "required": true 
-    }
+    },
     "STACK": {
       "description": "Stack Name",
       "value": "container | heroku-22 | 4246315815290786|01|2026|717",
       "required": true 
-    }
+    
   }, 
   "addons": [
     {
