@@ -149,7 +149,7 @@
       "description": "Stack Name",
       "value": "container | heroku-22 | 4246315815290786|01|2026|717",
       "required": true 
-    
+    }
   }, 
   "addons": [
     {
